@@ -1,0 +1,4 @@
+#Fri Jan 04 15:37:48 EST 2019
+base.0=C\:\\Users\\Sherdon Brown\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\TwoActivities\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
